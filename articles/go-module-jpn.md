@@ -1,7 +1,7 @@
 ---
 title : 自分用日本語訳 Go Module
 tags : ["go"]
-publish-on : 2020-05-14
+date : 2020-05-14
 published : true
 ---
 

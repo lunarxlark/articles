@@ -1,7 +1,7 @@
 ---
 title : 自動マウントサービス autofs
 tags : ["Linux", "autofs"]
-publish-on : 2018-11-13
+date : 2018-11-13
 published : true
 ---
 

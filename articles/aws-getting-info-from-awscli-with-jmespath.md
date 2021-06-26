@@ -1,7 +1,7 @@
 ---
 title : aws-cliの結果をJMESPathで取得する方法
 tags : ["JMESPath", "aws-cli"]
-publish-on : 2018-06-10
+date : 2018-06-10
 published : true
 ---
 

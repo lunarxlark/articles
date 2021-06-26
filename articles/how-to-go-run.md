@@ -1,7 +1,7 @@
 ---
 title : Error 'undefined' when go run
 tags : ["go"]
-publish-on : 2020-02-04
+date : 2020-02-04
 published : true
 ---
 

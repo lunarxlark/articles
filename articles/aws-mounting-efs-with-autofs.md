@@ -1,7 +1,7 @@
 ---
 title : autofsでEFSをマウント
 tags : ["AWS", "EFS", "autofs"]
-publish-on : 2018-12-10
+date : 2018-12-10
 published : true
 ---
 

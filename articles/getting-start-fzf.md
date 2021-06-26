@@ -1,7 +1,7 @@
 ---
 title : FizzyFinder `fzf`ことはじめ
 tags : ["fzf"]
-publish-on : 2018-03-24
+date : 2018-03-24
 published : true
 ---
 

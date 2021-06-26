@@ -1,7 +1,7 @@
 ---
 title : setコマンドでの位置パラメータへの代入方法
 tags : ["ShellScript"]
-publish-on : 2018-08-03
+date : 2018-08-03
 published : true
 ---
 

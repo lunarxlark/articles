@@ -1,7 +1,7 @@
 ---
 title : sudoの設定ファイル:sudoersのまとめ
 tags : ["Linux", "sudoer", "visudo"]
-publish-on : 2018-11-14
+date : 2018-11-14
 published : true
 ---
 

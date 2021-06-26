@@ -1,7 +1,7 @@
 ---
 title : dockerでmysqlイメージ起動時に起きたエラー [ERROR] secure_file_priv
 tags : ["MySQL"]
-publish-on : 2018-11-29
+date : 2018-11-29
 published : true
 ---
 

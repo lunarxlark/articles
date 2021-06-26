@@ -1,7 +1,7 @@
 ---
 title : SQL*Plusでviを使う
 tags : ["SQL*PLUS", "vim"]
-publish-on : 2018-12-01
+date : 2018-12-01
 published : true
 ---
 

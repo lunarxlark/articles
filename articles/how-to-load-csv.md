@@ -1,7 +1,7 @@
 ---
 title : MySQLへcsvをloadする方法
 tags : ["MySQL"]
-publish-on : 2018-06-15
+date : 2018-06-15
 published : true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title : 2020年 ふりかえり
 tags : ["poem"]
-publish-on : 2020-12-29
+date : 2020-12-29
 published : true
 ---
 

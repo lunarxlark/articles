@@ -1,7 +1,7 @@
 ---
 title : MySQLから各種一覧取得方法
 tags : ["MySQL"]
-publish-on : 2018-05-01
+date : 2018-05-01
 published : true
 ---
 

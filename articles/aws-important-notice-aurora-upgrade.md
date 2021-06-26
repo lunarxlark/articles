@@ -1,7 +1,7 @@
 ---
 title : AuroraのUpgradeでの注意点
 tags : ["AWS", "AuroraMySQL"]
-publish-on : 2018-05-03
+date : 2018-05-03
 published : true
 ---
 

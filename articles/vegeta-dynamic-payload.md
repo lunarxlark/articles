@@ -1,7 +1,7 @@
 ---
 title : load test with dynamic payload by tsenart/vegeta
 tags : ["go", "vegeta"]
-publish-on : 2021-03-11
+date : 2021-03-11
 published : true
 ---
 

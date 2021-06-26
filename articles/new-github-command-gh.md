@@ -1,7 +1,7 @@
 ---
 title : New Github Official CLI `gh`
 tags : ["gh"]
-publish-on : 2020-02-14
+date : 2020-02-14
 published : true
 ---
 

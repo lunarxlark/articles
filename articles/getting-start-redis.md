@@ -1,7 +1,7 @@
 ---
 title : Redisを始める時に参考になりそうなサイト
 tags : ["Redis"]
-publish-on : 2018-11-30
+date : 2018-11-30
 published : true
 ---
 

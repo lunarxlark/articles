@@ -1,7 +1,7 @@
 ---
 title : "ansibleでの各roleのパス取得方法"
 tags : ["Ansible"]
-publish-on : 2018-10-15
+date : 2018-10-15
 published : true
 ---
 

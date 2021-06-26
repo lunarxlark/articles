@@ -1,7 +1,7 @@
 ---
 title : Javaのメモリ空間
 tags : ["Java"]
-publish-on : 2018-12-10
+date : 2018-12-10
 published : true
 ---
 

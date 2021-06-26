@@ -1,7 +1,7 @@
 ---
 title : AWSでのシェルスクリプト集
 tags : ["AWS", "ShellScript"]
-publish-on : 2018-05-02
+date : 2018-05-02
 published : true
 ---
 

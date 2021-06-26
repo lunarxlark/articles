@@ -1,7 +1,7 @@
 ---
 title : LambdaでAWS Elasticsearch ServiceのIndex削除する方法
 tags : ["ElasticSearch", "AWS", "Lambda", "curator"]
-publish-on : 2019-01-15
+date : 2019-01-15
 published : true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title : Aurora MySQLの確認方法
 tags : ["MySQL", "AuroraMySQL"]
-publish-on : 2018-05-15
+date : 2018-05-15
 published : true
 ---
 

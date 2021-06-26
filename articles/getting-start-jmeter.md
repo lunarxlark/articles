@@ -1,7 +1,7 @@
 ---
 title : JMeterことはじめ
 tags : ["memo", "JMeter"]
-publish-on : 2018-05-01
+date : 2018-05-01
 published : true
 ---
 

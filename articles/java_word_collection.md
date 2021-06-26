@@ -1,7 +1,7 @@
 ---
 title : Javaで出てくる単語
 tags : ["Java"]
-publish-on : 2018-12-09
+date : 2018-12-09
 published : true
 ---
 

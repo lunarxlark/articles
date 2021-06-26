@@ -1,7 +1,7 @@
 ---
 title : From denite.nvim To fzf.vim
 tags : ["vim"]
-publish-on : 2020-02-11
+date : 2020-02-11
 published : true
 ---
 

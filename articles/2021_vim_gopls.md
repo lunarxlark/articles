@@ -1,7 +1,7 @@
 ---
 title : 2021年版 vim + goplsの設定
 tags : ["vim", "go", "gopls"]
-publish-on : 2021-06-16
+date : 2021-06-16
 published : true
 ---
 

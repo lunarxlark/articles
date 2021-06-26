@@ -1,7 +1,7 @@
 ---
 title : My Favorite Usage urfave/cli
 tags : ["go"]
-publish-on : 2020-02-06
+date : 2020-02-06
 published : true
 ---
 

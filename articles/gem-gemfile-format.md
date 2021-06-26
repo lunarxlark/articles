@@ -1,7 +1,7 @@
 ---
 title : Gemfileの書き方
 tags : ["Gem", "Gemfile"]
-publish-on : 2018-09-28
+date : 2018-09-28
 published : true
 ---
 
