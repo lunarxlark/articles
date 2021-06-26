@@ -1,9 +1,9 @@
-+++
-title = "load test with dynamic payload by tsenart/vegeta"
-date = 2021-03-11T03:08:11+09:00
-tags = ["go", "vegeta"]
-draft = false
-+++
+---
+title : load test with dynamic payload by tsenart/vegeta
+tags : ["go", "vegeta"]
+publish-on : 2021-03-11
+published : true
+---
 
 負荷テストツール`vegeta`のコマンドでの使い方ぐはググるとたくさん出てくるが、ライブラリとして仕様している記事が少なく手こずったのでメモ代わりに記事にする。
 

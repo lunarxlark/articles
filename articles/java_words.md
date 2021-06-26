@@ -1,9 +1,9 @@
-+++
-title = "Javaで出てくる単語"
-date = 2018-12-09
-tags = ["Java"]
-draft = false
-+++
+---
+title : Javaで出てくる単語
+tags : ["Java"]
+publish-on : 2018-12-09
+published : true
+---
 
 
 + HotSpot VM

@@ -1,9 +1,9 @@
-+++
-title = "Ansibleでよく使うモジュール"
-date = 2018-09-30
-tags = ["Ansible"]
-draft = false
-+++
+---
+title : Ansibleでよく使うモジュール
+tags : ["Ansible"]
+publish-on : 2018-09-30
+published : true
+---
 
 <!--more-->
 

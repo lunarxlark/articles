@@ -1,9 +1,9 @@
-+++
-title = "AuroraのUpgradeでの注意点"
-date = 2018-05-03
-tags = ["AWS", "AuroraMySQL"]
-draft = false
-+++
+---
+title : AuroraのUpgradeでの注意点
+tags : ["AWS", "AuroraMySQL"]
+publish-on : 2018-05-03
+published : true
+---
 
 Auroraのアップグレードには何種類かあり、それぞれでダウンタイム有無やパッチ適用時間が異なる。
 アップグレードの種類と気にしなければいけないことをまとめた。

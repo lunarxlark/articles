@@ -1,9 +1,9 @@
-+++
-title = "fizzy finderのfzfことはじめ"
-date = 2018-03-24
-tags = ["fzf"]
-draft = false
-+++
+---
+title : FizzyFinder `fzf`ことはじめ
+tags : ["fzf"]
+publish-on : 2018-03-24
+published : true
+---
 
 [github.com/junegunn/fzf](https://github.com/junegunn/fzf)
 

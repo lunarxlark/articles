@@ -1,9 +1,9 @@
-+++
-title = "MySQLでのuser作成"
-date = 2018-04-28
-tags = ["MySQL"]
-draft = false
-+++
+---
+title : MySQLでのuser作成
+tags : ["MySQL"]
+publish-on : 2018-04-28
+published : true
+---
 
 
 ```sql

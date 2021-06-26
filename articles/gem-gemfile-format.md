@@ -1,9 +1,9 @@
-+++
-title = "Gemfileの書き方"
-date = 2018-09-28
-tags = ["Gem", "Gemfile"]
-draft = false
-+++
+---
+title : Gemfileの書き方
+tags : ["Gem", "Gemfile"]
+publish-on : 2018-09-28
+published : true
+---
 
 Rails公式ドキュメントからGemfileの書き方を抜粋
 

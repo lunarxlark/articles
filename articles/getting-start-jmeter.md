@@ -1,9 +1,9 @@
-+++
-title = "JMeterことはじめ"
-date = 2018-05-01
-tags = ["memo", "JMeter"]
-draft = false
-+++
+---
+title : JMeterことはじめ
+tags : ["memo", "JMeter"]
+publish-on : 2018-05-01
+published : true
+---
 
 
 ## 参考

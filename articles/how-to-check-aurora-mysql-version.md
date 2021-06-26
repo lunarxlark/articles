@@ -1,9 +1,9 @@
-+++
-title = "Aurora MySQLの確認方法"
-date = 2018-05-15
-tags = ["MySQL", "AuroraMySQL"]
-draft = false
-+++
+---
+title : Aurora MySQLの確認方法
+tags : ["MySQL", "AuroraMySQL"]
+publish-on : 2018-05-15
+published : true
+---
 
 
 ```sql

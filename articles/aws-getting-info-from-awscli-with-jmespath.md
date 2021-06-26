@@ -1,9 +1,9 @@
-+++
-title = "aws-cliの結果をJMESPathで取得する方法"
-date = 2018-06-10
-tags = ["JMESPATH", "aws-cli"]
-draft = false
-+++
+---
+title : aws-cliの結果をJMESPathで取得する方法
+tags : ["JMESPath", "aws-cli"]
+publish-on : 2018-06-10
+published : true
+---
 
 + tagやownerでfilterして、作成日でソートした結果のうちImageIdだけ取り出す
 

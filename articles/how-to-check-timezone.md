@@ -1,9 +1,9 @@
-+++
-title = "MySQLでのtimezone確認"
-date = 2018-05-26
-tags = ["MySQL"]
-draft = false
-+++
+---
+title : MySQLでのtimezone確認
+tags : ["MySQL"]
+publish-on : 2018-05-26
+published : true
+---
 
 
 ```sql

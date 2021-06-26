@@ -1,9 +1,9 @@
-+++
-title = "Javaのチューニングオプション"
-date = 2018-12-02
-tags = ["Java"]
-draft = false
-+++
+---
+title : Javaのチューニングオプション
+tags : ["Java"]
+publish-on : 2018-12-02
+published : true
+---
 
 ### Options
 

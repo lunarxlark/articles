@@ -1,9 +1,9 @@
-+++
-title = "Redisを始める時に参考になりそうなサイト"
-date = 2018-11-30
-tags = ["Redis"]
-draft = false
-+++
+---
+title : Redisを始める時に参考になりそうなサイト
+tags : ["Redis"]
+publish-on : 2018-11-30
+published : true
+---
 
 
 ## ref

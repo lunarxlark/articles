@@ -1,9 +1,9 @@
-+++
-title = "setコマンドでの位置パラメータへの代入方法"
-date = 2018-08-03
-tags = ["ShellScript"]
-draft = false
-+++
+---
+title : setコマンドでの位置パラメータへの代入方法
+tags : ["ShellScript"]
+publish-on : 2018-08-03
+published : true
+---
 
 --オプションを使う事で、文字列を空白文字で分割して、位置パラメータにセットできる。
 

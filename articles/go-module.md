@@ -1,9 +1,9 @@
-+++
-title = "自分用日本語訳 Go Module"
-date = 2020-05-14T01:12:54+09:00
-tags = ["go"]
-draft = false
-+++
+---
+title : 自分用日本語訳 Go Module
+tags : ["go"]
+publish-on : 2020-05-14
+published : true
+---
 
 (この記事は、執筆時点での[Go Modules](https://github.com/golang/go/wiki/Modules)をもとにした私のメモです。Go Moduleの理解のために、元記事と記載の順番が入れ替わっている項目もあります。)
 

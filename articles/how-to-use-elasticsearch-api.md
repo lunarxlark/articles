@@ -1,9 +1,9 @@
-+++
-title = "ElasticsearchのIndexをAPIで操作"
-date = 2019-01-14
-tags = ["ElasticSearch"]
-draft = false
-+++
+---
+title : ElasticsearchのIndexをAPIで操作
+tags : ["ElasticSearch"]
+publish-on : 2019-01-14
+published : true
+---
 
 
 ## GET Indecies

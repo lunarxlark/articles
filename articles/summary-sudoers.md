@@ -1,9 +1,9 @@
-+++
-title = "sudoの設定ファイル:sudoersのまとめ"
-date = 2018-11-14
-tags = ["Linux", "sudoer", "visudo"]
-draft = false
-+++
+---
+title : sudoの設定ファイル:sudoersのまとめ
+tags : ["Linux", "sudoer", "visudo"]
+publish-on : 2018-11-14
+published : true
+---
 
 
 - sudoers ... sudoに関する設定ファイル

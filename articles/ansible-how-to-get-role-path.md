@@ -1,9 +1,9 @@
-+++
-title = "ansibleでの各roleのパス取得方法"
-date = 2018-10-15
-tags = ["Ansible"]
-draft = false
-+++
+---
+title : "ansibleでの各roleのパス取得方法"
+tags : ["Ansible"]
+publish-on : 2018-10-15
+published : true
+---
 
 playbookをrole毎に分けた際、roleの中でfilesのpath指定をするために実行中の/path/to/role/{current}を知りたくなった。
 

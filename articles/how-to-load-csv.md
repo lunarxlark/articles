@@ -1,9 +1,9 @@
-+++
-title = "MySQLへcsvをloadする方法"
-date = 2018-06-15
-tags = ["MySQL"]
-draft = false
-+++
+---
+title : MySQLへcsvをloadする方法
+tags : ["MySQL"]
+publish-on : 2018-06-15
+published : true
+---
 
 
 ```sql

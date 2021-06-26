@@ -1,9 +1,9 @@
-+++
-title = "BigQueryでPARTITIONTIMEを比較対象にする場合の記述"
-date = 2019-01-10
-tags = ["BigQuery"]
-draft = false
-+++
+---
+title : BigQueryでPARTITIONTIMEを比較対象にする場合の記述
+tags : ["BigQuery"]
+publish-on : 2019-01-10
+published : true
+---
 
 比較対象はtimestamp型に変更してから比較
 

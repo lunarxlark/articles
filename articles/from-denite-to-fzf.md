@@ -1,9 +1,9 @@
-+++
-title = "From denite.nvim To fzf.vim"
-date = 2020-02-11T15:57:07+09:00
-tags = ["vim"]
-draft = false
-+++
+---
+title : From denite.nvim To fzf.vim
+tags : ["vim"]
+publish-on : 2020-02-11
+published : true
+---
 
 > denite.nvimとfzf.vimって比較記事?
 

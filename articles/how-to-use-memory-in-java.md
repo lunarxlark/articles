@@ -1,9 +1,9 @@
-+++
-title = "Javaのメモリ空間"
-date = 2018-12-10
-tags = ["Java"]
-draft = false
-+++
+---
+title : Javaのメモリ空間
+tags : ["Java"]
+publish-on : 2018-12-10
+published : true
+---
 
 
 [メモリ空間のイメージ](http://fomsan.sakura.ne.jp/memo/java/javaTuning.html)

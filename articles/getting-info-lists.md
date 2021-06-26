@@ -1,9 +1,9 @@
-+++
-title = "MySQLから各種一覧取得方法"
-date = 2018-05-01
-tags = ["MySQL"]
-draft = false
-+++
+---
+title : MySQLから各種一覧取得方法
+tags : ["MySQL"]
+publish-on : 2018-05-01
+published : true
+---
 
 
 ```sql

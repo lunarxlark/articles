@@ -1,8 +1,8 @@
 ---
-title: 2021年版 vim + goplsの設定
-publish-on: 2021-06-16T08:53:28+09:00
-tags: ["vim", "go", "gopls"]
-published: true
+title : 2021年版 vim + goplsの設定
+tags : ["vim", "go", "gopls"]
+publish-on : 2021-06-16
+published : true
 ---
 
 goplsが出てから, vimでも定義ジャンプやシンボル検索、ドキュメント参照等が行えるようになった。
