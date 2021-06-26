@@ -1,8 +1,9 @@
 +++
 title = "2020年 ふりかえり"
 date = 2020-12-29T21:02:32+09:00
-tags = ["poem", "golang"]
+tags = ["poem"]
 draft = false
+published = true
 +++
 
 2020年の振り返りと来年にやりたいことをつらつらと書こうと思う。
