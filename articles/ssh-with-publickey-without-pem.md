@@ -5,7 +5,9 @@ date : 2021-07-04
 published : true
 ---
 
-isuconの練習時にGitHubに登録している公開鍵でEC2へssh出来るようにする際、sedでのエスケープの仕方でハマったのでメモ。
+isuconの練習時にGitHubに登録している公開鍵でEC2へssh出来るように、userdataを設定したかった。
+
+sedでのエスケープの仕方でハマったのでメモ。
 
 コンソールで作成時にkey pairを指定しなくても公開鍵でssh出来ることを確認済。
 
