@@ -5,9 +5,6 @@ date: 2021-08-22
 published: true
 ---
 
-[@Aki_Mineo](https://twitter.com/Aki_Mineo)
-[@annkara](https://twitter.com/__annkara__)
-
 ## 結果
 
 ISUCON 経験者の 2 名([@Aki_Mineo](https://twitter.com/Aki_Mineo), [@annkara](https://twitter.com/__annkara__))に誘われてチーム:コバミネとして参加しました。
