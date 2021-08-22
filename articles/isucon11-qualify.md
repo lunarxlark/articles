@@ -1,8 +1,8 @@
 ---
 title: ISUCON11予選に参加して惨敗した
 tags: ["isucon"]
-date: 2021-08-21
-published: false
+date: 2021-08-22
+published: true
 ---
 
 [@Aki_Mineo](https://twitter.com/Aki_Mineo)
